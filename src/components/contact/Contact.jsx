@@ -25,23 +25,23 @@ const Contact = () => {
                 <div className='contact__card'>
                     <i className='bx bx-mail-send contact__card-icon emailman'></i>
                     <h3 className='contact__card-title'>Email</h3>
-                    <span className='contact__card-data'>Vibhanshu123khare@gmail.com</span>
+                    <span className='contact__card-data'>arpitajain0628@gmail.com</span>
 
-                    <a href="mailto:vihbhanshu123khare@gmail.com" className="contact__button">< i className="bx bx-right-arrow contact__button-icon"></i></a>
+                    <a href="mailto:arpitajain0628@gmail.com" className="contact__button">< i className="bx bx-right-arrow contact__button-icon"></i></a>
                 </div>
                 <div className='contact__card'>
                     <i className='bx bxl-whatsapp contact__card-icon greenman'></i>
                     <h3 className='contact__card-title'>Whatsapp</h3>
-                    <span className='contact__card-data'>7887022305</span>
+                    <span className='contact__card-data'>8103404522</span>
 
-                    <a href="https://api.whatsapp.com/send?phone=7887022305&text=Hello,More information!" className="contact__button">< i className="bx bx-right-arrow contact__button-icon"></i></a>
+                    <a href="https://api.whatsapp.com/send?phone=8103404522&text=Hello,More information!" className="contact__button">< i className="bx bx-right-arrow contact__button-icon"></i></a>
                 </div>
                 <div className='contact__card'>
                     <i className='bx bxl-linkedin contact__card-icon blueman'></i>
                     <h3 className='contact__card-title'>Linkedin</h3>
-                    <span className='contact__card-data'>vibhanshu shrivastava</span>
+                    <span className='contact__card-data'>Arpita Jain</span>
 
-                    <a href="https://www.linkedin.com/in/vibhanshu-shrivastava-158108241/" className="contact__button"><i className="bx bx-right-arrow contact__button-icon"></i>   </a>
+                    <a href="https://www.linkedin.com/in/arpitajain0628/" className="contact__button"><i className="bx bx-right-arrow contact__button-icon"></i>   </a>
                 </div>
             </div>
         </div>

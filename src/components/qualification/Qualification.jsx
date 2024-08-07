@@ -57,9 +57,9 @@ const Qualification = () =>{
                         
                               <div>                            
                             <h3 className="qualification__title">12th </h3>
-                            <span className="qualification__subtitle">Angles Abode Public School</span>
+                            <span className="qualification__subtitle">Pioneer Convent School</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i> May 2021 -  May 2022
+                                <i className="uil uil-calendar-alt"></i> May 2020 -  May 2021
                             </div>   
                             </div>
                         </div>
